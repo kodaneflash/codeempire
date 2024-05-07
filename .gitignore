@@ -48,3 +48,4 @@ prisma/generated.schema.prisma
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+.env*.local
